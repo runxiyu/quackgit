@@ -1,5 +1,7 @@
 # Quackgit
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/runxiyu/quackgit.svg)](https://pkg.go.dev/github.com/runxiyu/quackgit)
+
 Quackgit is a high-level Git library in pure Go,
 based on the [Furgit](https://github.com/runxiyu/furgit) plumbing library.
 
